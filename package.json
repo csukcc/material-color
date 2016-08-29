@@ -1,0 +1,31 @@
+{
+  "name": "material-color",
+  "version": "1.0.0",
+  "description": "A very simple SASS/CSS library for Google's Material Design color palette.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csukcc/material-color.git"
+  },
+  "keywords": [
+    "material design",
+    "colors",
+    "color palette"
+  ],
+  "author": "Hao Dong <dong_hao@hotmail.co.uk> (https://github.com/csukcc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csukcc/material-color/issues"
+  },
+  "homepage": "https://github.com/csukcc/material-color#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-cssbeautify": "^0.1.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2"
+  }
+}
