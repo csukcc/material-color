@@ -16,7 +16,11 @@ Prerequisite:
 
 Convert SASS to CSS:
 
-1. Clone repository
-2. In terminal navigate to project folder
-3. Run `npm install` to install gulp and other dependencies
-4. Run `gulp build` in terminal to compile `sass/material-colors.sass` to the two CSS files.
+- Clone repository
+- Navigate to project folder
+- Then run the following
+
+```
+$ npm install
+$ npm run dev
+```
